@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Sou graduado em **Tecnologia em Análise e Desenvolvimento de Sistemas** e fascinado por tecnologia.
-- 💼 &nbsp; Trabalhando como **Analista e Suporte Computacional** na <a href="https://apeoc.org.br">APEOC</a>
+- 💼 &nbsp; Trabalhando como **Analista e Suporte Computacional**.
 - 🌱 &nbsp; Aprendendo mais sobre **Inteligência Artificial e Ciência de Dados**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
