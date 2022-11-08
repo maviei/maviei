@@ -3,7 +3,7 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Sou graduado em **Tecnologia em Análise e Desenvolvimento de Sistemas** e fascinado por tecnologia.
+- 🎓 &nbsp; Sou graduado em **Tecnologia em Análise e Desenvolvimento de Sistemas**.
 - 💼 &nbsp; Trabalhando como **Analista e Suporte Computacional**.
 - 🌱 &nbsp; Aprendendo mais sobre **Inteligência Artificial e Ciência de Dados**.
 
