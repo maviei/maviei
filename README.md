@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mim
 
-**MaVi** | Gestor de TI | Dev Full Stack | Open Source Enthusiast
+**MaVi** | Fundador da TI & Afins | Gestor de TI | Dev Full Stack | Open Source Enthusiast
 
 Apaixonado por tecnologia desde sempre. Transformo café em código e problemas em automações. Quando não tô desenvolvendo sistemas, tô soldando placas, programando ESPs ou criando bots pra automatizar tudo que respira. Pra mim, tecnologia boa é tecnologia que resolve. E de preferência, open source. 💚
 
