@@ -59,12 +59,6 @@ Apaixonado por tecnologia desde sempre. Transformo café em código e problemas 
 ![Bots](https://img.shields.io/badge/-Bots%20%26%20Automações-7289DA?style=flat&logo=robot-framework&logoColor=white)
 ![Open Source](https://img.shields.io/badge/-Open%20Source%20💚-28A745?style=flat&logo=opensourceinitiative&logoColor=white)
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/maviei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maviei&theme=dracula&show_icons=true" />
-</a>
-
 ## 📫 Onde me encontrar
 
 [![Telegram](https://img.shields.io/badge/-@maviei2-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/maviei2)
