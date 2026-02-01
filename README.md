@@ -67,7 +67,7 @@ Apaixonado por tecnologia desde sempre. Transformo café em código e problemas 
 
 ## 📫 Onde me encontrar
 
-[![Telegram](https://img.shields.io/badge/-@maviei-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/maviei)
+[![Telegram](https://img.shields.io/badge/-@maviei2-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/maviei2)
 [![LinkedIn](https://img.shields.io/badge/-maviei-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maviei/)
 [![Email](https://img.shields.io/badge/-contato@mariovieira.com.br-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contato@mariovieira.com.br)
 [![Site](https://img.shields.io/badge/-mariovieira.com.br-0D1117?style=flat&logo=google-chrome&logoColor=white)](https://mariovieira.com.br)
